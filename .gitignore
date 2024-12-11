@@ -1,1 +1,14 @@
 .vs/
+
+# Build results
+bin/
+obj/
+debug/
+release/
+
+# Other
+*.pdb
+*.cache
+*.zip
+*.bak
+*.swp
