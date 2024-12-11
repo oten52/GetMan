@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OtenTool.PostmanCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fbbbb82219d890a89cc18cce703a0f87b533a38")]
 [assembly: System.Reflection.AssemblyProductAttribute("OtenTool.PostmanCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OtenTool.PostmanCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

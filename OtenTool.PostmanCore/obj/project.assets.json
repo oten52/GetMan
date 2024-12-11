@@ -2225,19 +2225,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TEN\\.nuget\\packages\\": {}
+    "C:\\Users\\OrçunTen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TEN\\source\\repos\\OtenTool.Postman\\OtenTool.PostmanCore\\OtenTool.PostmanCore.csproj",
+      "projectUniqueName": "C:\\Users\\OrçunTen\\Source\\Repos\\GetMan\\OtenTool.Postman\\OtenTool.PostmanCore\\OtenTool.PostmanCore.csproj",
       "projectName": "OtenTool.PostmanCore",
-      "projectPath": "C:\\Users\\TEN\\source\\repos\\OtenTool.Postman\\OtenTool.PostmanCore\\OtenTool.PostmanCore.csproj",
-      "packagesPath": "C:\\Users\\TEN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TEN\\source\\repos\\OtenTool.Postman\\OtenTool.PostmanCore\\obj\\",
+      "projectPath": "C:\\Users\\OrçunTen\\Source\\Repos\\GetMan\\OtenTool.Postman\\OtenTool.PostmanCore\\OtenTool.PostmanCore.csproj",
+      "packagesPath": "C:\\Users\\OrçunTen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\OrçunTen\\Source\\Repos\\GetMan\\OtenTool.Postman\\OtenTool.PostmanCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\OrçunTen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

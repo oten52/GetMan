@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OtenTool.PostmanCore
-build_property.ProjectDir = C:\Users\TEN\source\repos\OtenTool.Postman\OtenTool.PostmanCore\
+build_property.ProjectDir = C:\Users\OrçunTen\source\repos\GetMan\OtenTool.Postman\OtenTool.PostmanCore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
